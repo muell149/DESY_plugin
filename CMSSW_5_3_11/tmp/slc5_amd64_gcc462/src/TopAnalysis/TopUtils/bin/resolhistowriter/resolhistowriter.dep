@@ -1,0 +1,5 @@
+tmp/slc5_amd64_gcc462/src/TopAnalysis/TopUtils/bin/resolhistowriter/resolhistowriter.o: \
+ src/TopAnalysis/TopUtils/bin/resolhistowriter.cc \
+ src/TopAnalysis/TopUtils/interface/extract_sigma.h \
+ src/TopAnalysis/TopUtils/interface/ResolutionVariables.h \
+

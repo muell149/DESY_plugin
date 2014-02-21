@@ -1,0 +1,2 @@
+ALL_PACKAGES += $(patsubst src/%,%,src/TopQuarkAnalysis/TopObjectResolutions)
+subdirs_src_TopQuarkAnalysis_TopObjectResolutions := src_TopQuarkAnalysis_TopObjectResolutions_doc src_TopQuarkAnalysis_TopObjectResolutions_interface src_TopQuarkAnalysis_TopObjectResolutions_python src_TopQuarkAnalysis_TopObjectResolutions_src

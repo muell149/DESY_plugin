@@ -1,0 +1,14 @@
+tmp/slc5_amd64_gcc462/src/DataFormats/PatCandidates/test/testKinResolutions/testKinParametrizations.o: \
+ src/DataFormats/PatCandidates/test/testKinParametrizations.cc \
+ src/DataFormats/PatCandidates/interface/ParametrizationHelper.h \
+ src/DataFormats/PatCandidates/interface/CandKinResolution.h \
+
+tmp/slc5_amd64_gcc462/src/DataFormats/PatCandidates/test/testKinResolutions/testKinResolutions.o: \
+ src/DataFormats/PatCandidates/test/testKinResolutions.cc \
+ src/DataFormats/PatCandidates/interface/ParametrizationHelper.h \
+ src/DataFormats/PatCandidates/interface/CandKinResolution.h \
+ src/DataFormats/PatCandidates/interface/ResolutionHelper.h
+
+tmp/slc5_amd64_gcc462/src/DataFormats/PatCandidates/test/testKinResolutions/testRunner.o: \
+ src/DataFormats/PatCandidates/test/testRunner.cpp \
+

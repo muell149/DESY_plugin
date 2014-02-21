@@ -1,0 +1,29 @@
+tmp/slc5_amd64_gcc462/src/BEAN/Collections/src/BEANCollections/a/xr.cc:\
+ src/BEAN/Collections/src/classes.h \
+ src/BEAN/Collections/interface/SampleProd.h \
+ src/BEAN/Collections/interface/BNbxlumi.h \
+ src/BEAN/Collections/interface/BNelectron.h \
+ src/BEAN/Collections/interface/BNlepton.h \
+ src/BEAN/Collections/interface/BNtau.h \
+ src/BEAN/Collections/interface/BNevent.h \
+ src/BEAN/Collections/interface/BNjet.h \
+ src/BEAN/Collections/interface/BNmcparticle.h \
+ src/BEAN/Collections/interface/BNmet.h \
+ src/BEAN/Collections/interface/BNmuon.h \
+ src/BEAN/Collections/interface/BNlepton.h \
+ src/BEAN/Collections/interface/BNphoton.h \
+ src/BEAN/Collections/interface/BNsupercluster.h \
+ src/BEAN/Collections/interface/BNtrack.h \
+ src/BEAN/Collections/interface/BNtrigger.h \
+ src/BEAN/Collections/interface/BNskimbits.h \
+ src/BEAN/Collections/interface/BNtrigobj.h \
+ src/BEAN/Collections/interface/BNprimaryvertex.h \
+ src/BEAN/Collections/interface/BNgenjet.h \
+
+tmp/slc5_amd64_gcc462/src/BEAN/Collections/src/BEANCollections/BNleptonCollection.o: \
+ src/BEAN/Collections/src/BNleptonCollection.cc \
+ src/BEAN/Collections/src/../interface/BNleptonCollection.h \
+ src/BEAN/Collections/src/../interface/BNlepton.h \
+ src/BEAN/Collections/src/../interface/BNelectron.h \
+ src/BEAN/Collections/src/../interface/BNmuon.h
+

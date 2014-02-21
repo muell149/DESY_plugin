@@ -1,0 +1,2 @@
+ALL_PACKAGES += $(patsubst src/%,%,src/TopQuarkAnalysis/TopSkimming)
+subdirs_src_TopQuarkAnalysis_TopSkimming := src_TopQuarkAnalysis_TopSkimming_plugins src_TopQuarkAnalysis_TopSkimming_python src_TopQuarkAnalysis_TopSkimming_src src_TopQuarkAnalysis_TopSkimming_test

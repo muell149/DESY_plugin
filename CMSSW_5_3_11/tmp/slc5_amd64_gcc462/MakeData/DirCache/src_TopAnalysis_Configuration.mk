@@ -1,0 +1,2 @@
+ALL_PACKAGES += $(patsubst src/%,%,src/TopAnalysis/Configuration)
+subdirs_src_TopAnalysis_Configuration := src_TopAnalysis_Configuration_doc src_TopAnalysis_Configuration_plot src_TopAnalysis_Configuration_python src_TopAnalysis_Configuration_test

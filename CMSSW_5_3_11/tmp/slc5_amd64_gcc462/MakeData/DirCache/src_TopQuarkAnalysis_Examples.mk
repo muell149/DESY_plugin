@@ -1,0 +1,2 @@
+ALL_PACKAGES += $(patsubst src/%,%,src/TopQuarkAnalysis/Examples)
+subdirs_src_TopQuarkAnalysis_Examples := src_TopQuarkAnalysis_Examples_bin src_TopQuarkAnalysis_Examples_plugins src_TopQuarkAnalysis_Examples_python src_TopQuarkAnalysis_Examples_test

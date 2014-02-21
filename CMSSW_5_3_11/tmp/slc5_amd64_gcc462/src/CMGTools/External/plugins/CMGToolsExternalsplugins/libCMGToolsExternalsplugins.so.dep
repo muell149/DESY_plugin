@@ -1,0 +1,14 @@
+tmp/slc5_amd64_gcc462/src/CMGTools/External/plugins/CMGToolsExternalsplugins/PileupJetIdProducer.o: \
+ src/CMGTools/External/plugins/PileupJetIdProducer.cc \
+ src/DataFormats/PatCandidates/interface/Jet.h \
+ src/DataFormats/PatCandidates/interface/PATObject.h \
+ src/DataFormats/PatCandidates/interface/TriggerObjectStandAlone.h \
+ src/DataFormats/PatCandidates/interface/TriggerObject.h \
+ src/DataFormats/PatCandidates/interface/LookupTableRecord.h \
+ src/DataFormats/PatCandidates/interface/UserData.h \
+ src/DataFormats/PatCandidates/interface/CandKinResolution.h \
+ src/DataFormats/PatCandidates/interface/JetCorrFactors.h \
+ src/CMGTools/External/interface/PileupJetIdentifier.h \
+ src/CMGTools/External/interface/PileupJetIdAlgo.h \
+ src/CMGTools/External/interface/PileupJetIdentifier.h \
+

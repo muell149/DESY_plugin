@@ -1,0 +1,4 @@
+tmp/slc5_amd64_gcc462/src/RecoParticleFlow/PFProducer/test/RecoParticleFlowPFSuperClusterReader/PFSuperClusterReader.o: \
+ src/RecoParticleFlow/PFProducer/test/PFSuperClusterReader.cc \
+ src/RecoParticleFlow/PFProducer/test/PFSuperClusterReader.h \
+

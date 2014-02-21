@@ -1,0 +1,3 @@
+
+/bin/rm -f src/RecoJets/JetProducers/python/.pl_backups/__init__.py src/RecoJets/JetProducers/python/.pl_backups/__init__.pyc
+/bin/rm -f src/RecoJets/JetProducers/python/__init__.py src/RecoJets/JetProducers/python/__init__.pyc

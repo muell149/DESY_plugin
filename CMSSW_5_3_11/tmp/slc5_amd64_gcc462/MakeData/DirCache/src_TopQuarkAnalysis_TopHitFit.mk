@@ -1,0 +1,2 @@
+ALL_PACKAGES += $(patsubst src/%,%,src/TopQuarkAnalysis/TopHitFit)
+subdirs_src_TopQuarkAnalysis_TopHitFit := src_TopQuarkAnalysis_TopHitFit_data src_TopQuarkAnalysis_TopHitFit_plugins src_TopQuarkAnalysis_TopHitFit_python src_TopQuarkAnalysis_TopHitFit_src src_TopQuarkAnalysis_TopHitFit_test

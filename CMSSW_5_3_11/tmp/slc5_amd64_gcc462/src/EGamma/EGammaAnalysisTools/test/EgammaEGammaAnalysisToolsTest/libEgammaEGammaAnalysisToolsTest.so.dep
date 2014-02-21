@@ -1,0 +1,10 @@
+tmp/slc5_amd64_gcc462/src/EGamma/EGammaAnalysisTools/test/EgammaEGammaAnalysisToolsTest/ElectronAnalyzer.o: \
+ src/EGamma/EGammaAnalysisTools/test/ElectronAnalyzer.cc \
+ src/RecoParticleFlow/PFProducer/interface/Utils.h \
+ src/EGamma/EGammaAnalysisTools/interface/EGammaMvaEleEstimator.h \
+ src/EGamma/EGammaAnalysisTools/interface/ElectronEffectiveArea.h \
+
+tmp/slc5_amd64_gcc462/src/EGamma/EGammaAnalysisTools/test/EgammaEGammaAnalysisToolsTest/ElectronIsoAnalyzer.o: \
+ src/EGamma/EGammaAnalysisTools/test/ElectronIsoAnalyzer.cc \
+ src/EGamma/EGammaAnalysisTools/interface/ElectronEffectiveArea.h
+

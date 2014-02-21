@@ -1,0 +1,7 @@
+tmp/slc5_amd64_gcc462/src/TopQuarkAnalysis/TopSkimming/plugins/TopQuarkAnalysisTopSkimmingPlugins/TtDecayChannelFilter.o: \
+ src/TopQuarkAnalysis/TopSkimming/plugins/TtDecayChannelFilter.cc \
+ src/TopQuarkAnalysis/TopSkimming/interface/TopDecayChannelFilter.h \
+ src/AnalysisDataFormats/TopObjects/interface/TtGenEvent.h \
+ src/AnalysisDataFormats/TopObjects/interface/TopGenEvent.h \
+ src/TopQuarkAnalysis/TopSkimming/interface/TtDecayChannelSelector.h
+

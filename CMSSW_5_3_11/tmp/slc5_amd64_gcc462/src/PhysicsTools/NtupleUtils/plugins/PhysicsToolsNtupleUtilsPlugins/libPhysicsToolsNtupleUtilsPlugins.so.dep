@@ -1,0 +1,13 @@
+tmp/slc5_amd64_gcc462/src/PhysicsTools/NtupleUtils/plugins/PhysicsToolsNtupleUtilsPlugins/AllPassFilter.o: \
+ src/PhysicsTools/NtupleUtils/plugins/AllPassFilter.cc \
+ src/PhysicsTools/NtupleUtils/plugins/AllPassFilter.h \
+
+tmp/slc5_amd64_gcc462/src/PhysicsTools/NtupleUtils/plugins/PhysicsToolsNtupleUtilsPlugins/HLTrigResultsDumper.o: \
+ src/PhysicsTools/NtupleUtils/plugins/HLTrigResultsDumper.cc \
+ src/PhysicsTools/NtupleUtils/plugins/HLTrigResultsDumper.h \
+ src/PhysicsTools/NtupleUtils/interface/NtupleFactory.h \
+
+tmp/slc5_amd64_gcc462/src/PhysicsTools/NtupleUtils/plugins/PhysicsToolsNtupleUtilsPlugins/PUDumper.o: \
+ src/PhysicsTools/NtupleUtils/plugins/PUDumper.cc \
+ src/PhysicsTools/NtupleUtils/plugins/PUDumper.h \
+

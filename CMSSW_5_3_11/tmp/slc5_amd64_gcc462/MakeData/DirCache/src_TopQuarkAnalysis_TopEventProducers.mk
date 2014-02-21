@@ -1,0 +1,2 @@
+ALL_PACKAGES += $(patsubst src/%,%,src/TopQuarkAnalysis/TopEventProducers)
+subdirs_src_TopQuarkAnalysis_TopEventProducers := src_TopQuarkAnalysis_TopEventProducers_doc src_TopQuarkAnalysis_TopEventProducers_python src_TopQuarkAnalysis_TopEventProducers_src src_TopQuarkAnalysis_TopEventProducers_test

@@ -1,0 +1,2 @@
+ALL_PACKAGES += $(patsubst src/%,%,src/ElectroWeakAnalysis/Utilities)
+subdirs_src_ElectroWeakAnalysis_Utilities := src_ElectroWeakAnalysis_Utilities_python src_ElectroWeakAnalysis_Utilities_src src_ElectroWeakAnalysis_Utilities_test

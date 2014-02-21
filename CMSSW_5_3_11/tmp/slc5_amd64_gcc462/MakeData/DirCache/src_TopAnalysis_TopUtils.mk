@@ -1,0 +1,2 @@
+ALL_PACKAGES += $(patsubst src/%,%,src/TopAnalysis/TopUtils)
+subdirs_src_TopAnalysis_TopUtils := src_TopAnalysis_TopUtils_bin src_TopAnalysis_TopUtils_plugins src_TopAnalysis_TopUtils_python src_TopAnalysis_TopUtils_scripts src_TopAnalysis_TopUtils_src src_TopAnalysis_TopUtils_test

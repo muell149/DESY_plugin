@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=$(patsubst src/%,%,src/TopAnalysis)
+subdirs_src_TopAnalysis = src_TopAnalysis_Configuration src_TopAnalysis_HiggsUtils src_TopAnalysis_TopAnalyzer src_TopAnalysis_TopFilter src_TopAnalysis_TopUtils src_TopAnalysis_ZTopUtils
